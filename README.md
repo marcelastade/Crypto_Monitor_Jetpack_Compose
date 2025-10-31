@@ -9,4 +9,4 @@ Marcela Stade Carvalho - RM552372
 
 | Antes de atualizar | Após atualizar |
 |--------------------|----------------|
-| ![celular-zerado](https://github.com/user-attachments/assets/4698a13e-b8d0-4b8c-a613-6a7711ab88ad) | ![celular-com-valor](https://github.com/user-attachments/assets/a2dc64c3-21d4-417f-a385-adb489c5f403) |
+| ![celular-zerado](https://github.com/user-attachments/assets/7e81ec49-afdc-496b-bed4-d7491136032a) | ![celular-valor](https://github.com/user-attachments/assets/4d3ed05d-b8c7-42eb-9402-29db5fc60ad5) |
